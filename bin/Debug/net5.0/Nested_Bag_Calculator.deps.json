@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nested_Bag_Calculator/1.0.0": {
+        "runtime": {
+          "Nested_Bag_Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nested_Bag_Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

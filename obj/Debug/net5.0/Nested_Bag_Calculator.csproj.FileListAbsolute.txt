@@ -1,0 +1,16 @@
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.exe
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.deps.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.runtimeconfig.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.runtimeconfig.dev.json
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\ref\Nested_Bag_Calculator.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\bin\Debug\net5.0\Nested_Bag_Calculator.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.csproj.AssemblyReference.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.AssemblyInfoInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.AssemblyInfo.cs
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\ref\Nested_Bag_Calculator.dll
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.pdb
+C:\Users\hanna\Desktop\Hanna-Geffen\Nested_Bag_Calculator\obj\Debug\net5.0\Nested_Bag_Calculator.genruntimeconfig.cache
